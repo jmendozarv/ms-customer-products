@@ -7,6 +7,9 @@ Para ejecutar el microservicio, necesitas:
 - **Java 17** o superior
 - **Apache Maven** para compilación y ejecución
 
+## Collection Postman
+- [PROJECT02.postman_collection.json](PROJECT02.postman_collection.json)
+- [Desarrollo.postman_environment.json](Desarrollo.postman_environment.json)
 
 ## Instrucciones de Ejecución
 Para ejecutar el microservicio localmente:
